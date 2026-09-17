@@ -79,8 +79,7 @@ The project uses a MockAPI REST API.
 ### 1. Clone the repository
 
 ```bash
-git clone YOUR_GITHUB_REPOSITORY_URL
-```
+git clone https://github.com/naved2001/user-api-cli
 
 ### 2. Open the project
 
@@ -228,9 +227,9 @@ The application handles common request errors including:
 
 ## 📸 Screenshots
 
-```Menu
+### Menu
 ![Main Menu](screenshots/menu.png)
-```
+
 
 ## ⚠️ Note
 
